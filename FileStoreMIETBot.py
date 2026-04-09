@@ -19,7 +19,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = "8728122165:AAH_qUi65nGNfz36gw5eknvGsRoCvSnJ2iU"
+TOKEN = "TOKEN"
 USERS_FILE = "users.json"
 FILES_FILE = "files.json"
 UPLOADS_DIR = "uploads"
