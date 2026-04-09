@@ -1,0 +1,744 @@
+2026-04-09 17:45:38,214 | INFO | Файл users.json не найден. Создан новый список пользователей.
+2026-04-09 17:45:38,214 | INFO | 🤖 Бот запущен
+2026-04-09 17:45:38,214 | INFO | Start polling
+2026-04-09 17:45:38,592 | INFO | Run polling for bot @FileStoreMIETBot id=8728122165 - 'FileStoreBot'
+2026-04-09 17:46:25,022 | INFO | ✅ Новый пользователь зарегистрирован: 1326964126 (@ZaroKRouK)
+2026-04-09 17:46:25,022 | INFO | Сохранено 1 пользователей
+2026-04-09 17:46:25,398 | INFO | Update id=523173461 is handled. Duration 377 ms by bot id=8728122165
+2026-04-09 17:47:32,512 | INFO | ✅ Новый пользователь зарегистрирован: 465496494 (@Smker32)
+2026-04-09 17:47:32,513 | INFO | Сохранено 2 пользователей
+2026-04-09 17:47:32,665 | INFO | Update id=523173462 is handled. Duration 153 ms by bot id=8728122165
+2026-04-09 17:47:36,458 | INFO | Обновлён пользователь: 465496494 (@Smker32)
+2026-04-09 17:47:36,459 | INFO | Сохранено 2 пользователей
+2026-04-09 17:47:36,586 | INFO | Update id=523173463 is handled. Duration 127 ms by bot id=8728122165
+2026-04-09 17:47:37,729 | INFO | Обновлён пользователь: 465496494 (@Smker32)
+2026-04-09 17:47:37,729 | INFO | Сохранено 2 пользователей
+2026-04-09 17:47:37,853 | INFO | Update id=523173464 is handled. Duration 124 ms by bot id=8728122165
+2026-04-09 17:47:40,636 | INFO | Обновлён пользователь: 465496494 (@Smker32)
+2026-04-09 17:47:40,637 | INFO | Сохранено 2 пользователей
+2026-04-09 17:47:40,793 | INFO | Update id=523173465 is handled. Duration 156 ms by bot id=8728122165
+2026-04-09 17:47:41,800 | INFO | Обновлён пользователь: 465496494 (@Smker32)
+2026-04-09 17:47:41,800 | INFO | Сохранено 2 пользователей
+2026-04-09 17:47:41,900 | INFO | Update id=523173466 is handled. Duration 100 ms by bot id=8728122165
+2026-04-09 17:47:43,776 | INFO | Обновлён пользователь: 465496494 (@Smker32)
+2026-04-09 17:47:43,776 | INFO | Сохранено 2 пользователей
+2026-04-09 17:47:43,883 | INFO | Update id=523173467 is handled. Duration 107 ms by bot id=8728122165
+2026-04-09 17:47:44,736 | INFO | Обновлён пользователь: 465496494 (@Smker32)
+2026-04-09 17:47:44,737 | INFO | Сохранено 2 пользователей
+2026-04-09 17:47:44,859 | INFO | Update id=523173468 is handled. Duration 122 ms by bot id=8728122165
+2026-04-09 17:47:47,980 | INFO | Обновлён пользователь: 465496494 (@Smker32)
+2026-04-09 17:47:47,981 | INFO | Сохранено 2 пользователей
+2026-04-09 17:47:48,088 | INFO | Update id=523173469 is handled. Duration 107 ms by bot id=8728122165
+2026-04-09 17:54:56,943 | INFO | Загружено 2 пользователей
+2026-04-09 17:54:56,944 | INFO | Создан новый реестр файлов (files.json)
+2026-04-09 17:54:56,944 | INFO | 🤖 Бот запущен с поддержкой обмена файлами
+2026-04-09 17:54:56,944 | INFO | Start polling
+2026-04-09 17:54:57,302 | INFO | Run polling for bot @FileStoreMIETBot id=8728122165 - 'FileStoreBot'
+2026-04-09 17:55:07,256 | INFO | Update id=523173470 is handled. Duration 360 ms by bot id=8728122165
+2026-04-09 17:55:59,663 | INFO | Сохранено 1 файлов
+2026-04-09 17:55:59,663 | INFO | Файл сохранён → ID=1 | Пользователь=1326964126 | 307811_O.png
+2026-04-09 17:55:59,769 | INFO | Update id=523173471 is handled. Duration 977 ms by bot id=8728122165
+2026-04-09 17:56:25,139 | INFO | Update id=523173472 is handled. Duration 125 ms by bot id=8728122165
+2026-04-09 17:56:39,306 | INFO | Update id=523173473 is handled. Duration 649 ms by bot id=8728122165
+2026-04-09 18:03:39,607 | INFO | Загружено 2 пользователей
+2026-04-09 18:03:39,613 | INFO | Загружено 1 файлов
+2026-04-09 18:03:39,613 | INFO | 🤖 Бот запущен с поддержкой обмена файлами между пользователями
+2026-04-09 18:03:39,613 | INFO | Start polling
+2026-04-09 18:03:39,966 | INFO | Run polling for bot @FileStoreMIETBot id=8728122165 - 'FileStoreBot'
+2026-04-09 18:03:40,439 | INFO | Update id=523173474 is handled. Duration 385 ms by bot id=8728122165
+2026-04-09 18:05:01,387 | ERROR | Ошибка в /get
+Traceback (most recent call last):
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\client_reqrep.py", line 539, in start
+    message, payload = await protocol.read()  # type: ignore[union-attr]
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\streams.py", line 707, in read
+    await self._waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\session\aiohttp.py", line 167, in make_request
+    async with session.post(
+               ~~~~~~~~~~~~^
+        url,
+        ^^^^
+        data=form,
+        ^^^^^^^^^^
+        timeout=self.timeout if timeout is None else timeout,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ) as resp:
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\client.py", line 1521, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\client.py", line 788, in _request
+    resp = await handler(req)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\client.py", line 766, in _connect_and_send_request
+    await resp.start(conn)
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\client_reqrep.py", line 534, in start
+    with self._timer:
+         ^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\helpers.py", line 713, in __exit__
+    raise asyncio.TimeoutError from exc_val
+TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\FileStoreMIETBot\FileStoreMIETBot.py", line 194, in cmd_get
+    await message.answer_document(
+    ...<2 lines>...
+    )
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\methods\base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\bot.py", line 493, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\session\aiohttp.py", line 174, in make_request
+    raise TelegramNetworkError(method=method, message="Request timeout error") from e
+aiogram.exceptions.TelegramNetworkError: HTTP Client says - Request timeout error
+2026-04-09 18:05:01,747 | INFO | Update id=523173475 is handled. Duration 71725 ms by bot id=8728122165
+2026-04-09 18:05:17,942 | INFO | Update id=523173476 is handled. Duration 113 ms by bot id=8728122165
+2026-04-09 18:05:29,776 | INFO | Файл 1 одобрен и отправлен пользователю 465496494
+2026-04-09 18:05:29,776 | INFO | Update id=523173478 is handled. Duration 1316 ms by bot id=8728122165
+2026-04-09 18:05:40,198 | INFO | Update id=523173477 is handled. Duration 17625 ms by bot id=8728122165
+2026-04-09 18:06:22,629 | INFO | Update id=523173479 is handled. Duration 220 ms by bot id=8728122165
+2026-04-09 18:06:25,834 | INFO | Файл 1 отклонён для пользователя 465496494
+2026-04-09 18:06:25,835 | INFO | Update id=523173480 is handled. Duration 279 ms by bot id=8728122165
+2026-04-09 18:06:50,526 | INFO | Update id=523173481 is handled. Duration 514 ms by bot id=8728122165
+2026-04-09 19:04:36,582 | INFO | Загружено 2 пользователей
+2026-04-09 19:04:36,582 | INFO | Загружено 1 файлов
+2026-04-09 19:04:36,582 | INFO | 🤖 Бот запущен с командами /help и /files
+2026-04-09 19:04:36,582 | INFO | Start polling
+2026-04-09 19:04:36,939 | INFO | Run polling for bot @FileStoreMIETBot id=8728122165 - 'FileStoreBot'
+2026-04-09 19:04:42,587 | INFO | Update id=523173482 is handled. Duration 389 ms by bot id=8728122165
+2026-04-09 19:04:50,548 | INFO | Update id=523173483 is handled. Duration 175 ms by bot id=8728122165
+2026-04-09 19:04:57,088 | INFO | Update id=523173484 is handled. Duration 146 ms by bot id=8728122165
+2026-04-09 19:05:02,871 | INFO | Update id=523173485 is handled. Duration 134 ms by bot id=8728122165
+2026-04-09 19:06:38,121 | INFO | 🤖 Бот запущен (добавлены /myfiles и /del)
+2026-04-09 19:06:38,121 | INFO | Start polling
+2026-04-09 19:06:38,508 | INFO | Run polling for bot @FileStoreMIETBot id=8728122165 - 'FileStoreBot'
+2026-04-09 19:06:49,533 | INFO | Update id=523173486 is handled. Duration 435 ms by bot id=8728122165
+2026-04-09 19:06:53,132 | INFO | Update id=523173487 is handled. Duration 134 ms by bot id=8728122165
+2026-04-09 19:06:57,015 | INFO | Update id=523173488 is handled. Duration 148 ms by bot id=8728122165
+2026-04-09 19:07:03,816 | INFO | Update id=523173489 is handled. Duration 108 ms by bot id=8728122165
+2026-04-09 19:07:11,544 | INFO | Файл 1 удалён пользователем 1326964126
+2026-04-09 19:07:11,544 | INFO | Update id=523173490 is handled. Duration 160 ms by bot id=8728122165
+2026-04-09 19:07:14,391 | INFO | Update id=523173491 is handled. Duration 129 ms by bot id=8728122165
+2026-04-09 19:07:25,643 | INFO | Update id=523173492 is handled. Duration 131 ms by bot id=8728122165
+2026-04-09 19:10:50,879 | INFO | Update id=523173493 is handled. Duration 369 ms by bot id=8728122165
+2026-04-09 19:12:26,893 | INFO | Update id=523173494 is handled. Duration 130 ms by bot id=8728122165
+2026-04-09 19:35:36,399 | INFO | Update id=523173495 is handled. Duration 198 ms by bot id=8728122165
+2026-04-09 19:36:07,924 | INFO | Update id=523173496 is handled. Duration 6638 ms by bot id=8728122165
+2026-04-09 19:36:33,731 | ERROR | Ошибка /get
+Traceback (most recent call last):
+  File "D:\FileStoreMIETBot\FileStoreMIETBot.py", line 260, in cmd_get
+    file_id = int(parts[1].strip())
+ValueError: invalid literal for int() with base 10: 'ID 3'
+2026-04-09 19:36:34,744 | INFO | Update id=523173497 is handled. Duration 1013 ms by bot id=8728122165
+2026-04-09 19:36:39,253 | ERROR | Ошибка /get
+Traceback (most recent call last):
+  File "D:\FileStoreMIETBot\FileStoreMIETBot.py", line 260, in cmd_get
+    file_id = int(parts[1].strip())
+ValueError: invalid literal for int() with base 10: 'ID'
+2026-04-09 19:36:39,397 | INFO | Update id=523173498 is handled. Duration 145 ms by bot id=8728122165
+2026-04-09 19:36:45,543 | ERROR | Ошибка /get
+Traceback (most recent call last):
+  File "D:\FileStoreMIETBot\FileStoreMIETBot.py", line 260, in cmd_get
+    file_id = int(parts[1].strip())
+ValueError: invalid literal for int() with base 10: 'ID 3'
+2026-04-09 19:36:45,755 | INFO | Update id=523173499 is handled. Duration 212 ms by bot id=8728122165
+2026-04-09 19:37:09,657 | INFO | Update id=523173500 is handled. Duration 143 ms by bot id=8728122165
+2026-04-09 19:37:28,441 | ERROR | Ошибка /get
+Traceback (most recent call last):
+  File "D:\FileStoreMIETBot\FileStoreMIETBot.py", line 260, in cmd_get
+    file_id = int(parts[1].strip())
+ValueError: invalid literal for int() with base 10: 'ID 3'
+2026-04-09 19:37:28,602 | INFO | Update id=523173501 is handled. Duration 161 ms by bot id=8728122165
+2026-04-09 19:37:40,378 | INFO | Update id=523173502 is not handled. Duration 0 ms by bot id=8728122165
+2026-04-09 19:38:07,594 | INFO | Update id=523173503 is handled. Duration 131 ms by bot id=8728122165
+2026-04-09 19:38:16,986 | INFO | Update id=523173504 is handled. Duration 145 ms by bot id=8728122165
+2026-04-09 19:38:37,950 | ERROR | Ошибка /get
+Traceback (most recent call last):
+  File "D:\FileStoreMIETBot\FileStoreMIETBot.py", line 260, in cmd_get
+    file_id = int(parts[1].strip())
+ValueError: invalid literal for int() with base 10: 'ID 3'
+2026-04-09 19:38:38,069 | INFO | Update id=523173505 is handled. Duration 119 ms by bot id=8728122165
+2026-04-09 19:38:48,924 | ERROR | Ошибка /get
+Traceback (most recent call last):
+  File "D:\FileStoreMIETBot\FileStoreMIETBot.py", line 260, in cmd_get
+    file_id = int(parts[1].strip())
+ValueError: invalid literal for int() with base 10: 'ID 2'
+2026-04-09 19:38:49,044 | INFO | Update id=523173506 is handled. Duration 121 ms by bot id=8728122165
+2026-04-09 19:39:12,990 | INFO | 🤖 Бот запущен (добавлены /myfiles и /del)
+2026-04-09 19:39:12,990 | INFO | Start polling
+2026-04-09 19:39:13,412 | INFO | Run polling for bot @FileStoreMIETBot id=8728122165 - 'FileStoreBot'
+2026-04-09 19:39:22,667 | ERROR | Ошибка /get
+Traceback (most recent call last):
+  File "D:\FileStoreMIETBot\FileStoreMIETBot.py", line 260, in cmd_get
+    file_id = int(parts[1].strip())
+ValueError: invalid literal for int() with base 10: 'ID 3'
+2026-04-09 19:39:23,112 | INFO | Update id=523173507 is handled. Duration 445 ms by bot id=8728122165
+2026-04-09 19:39:30,291 | INFO | Update id=523173508 is handled. Duration 131 ms by bot id=8728122165
+2026-04-09 19:39:34,387 | INFO | Update id=523173509 is handled. Duration 121 ms by bot id=8728122165
+2026-04-09 19:39:40,897 | INFO | Update id=523173510 is handled. Duration 112 ms by bot id=8728122165
+2026-04-09 19:41:02,790 | INFO | Update id=523173511 is handled. Duration 166 ms by bot id=8728122165
+2026-04-09 19:41:10,377 | INFO | Update id=523173512 is handled. Duration 117 ms by bot id=8728122165
+2026-04-09 19:41:17,746 | INFO | Update id=523173513 is handled. Duration 120 ms by bot id=8728122165
+2026-04-09 19:41:32,710 | INFO | Update id=523173514 is handled. Duration 114 ms by bot id=8728122165
+2026-04-09 19:41:47,062 | INFO | Update id=523173515 is handled. Duration 240 ms by bot id=8728122165
+2026-04-09 19:41:53,361 | INFO | Update id=523173516 is handled. Duration 816 ms by bot id=8728122165
+2026-04-09 19:42:11,896 | INFO | Update id=523173517 is not handled. Duration 0 ms by bot id=8728122165
+2026-04-09 19:42:22,107 | INFO | Update id=523173518 is handled. Duration 889 ms by bot id=8728122165
+2026-04-09 19:42:24,346 | INFO | Update id=523173519 is handled. Duration 498 ms by bot id=8728122165
+2026-04-09 19:45:42,019 | INFO | 🤖 Бот запущен (добавлены /myfiles и /del)
+2026-04-09 19:45:42,019 | INFO | Start polling
+2026-04-09 19:45:42,913 | INFO | Run polling for bot @FileStoreMIETBot id=8728122165 - 'FileStoreBot'
+2026-04-09 19:45:47,923 | INFO | Update id=523173520 is not handled. Duration 336 ms by bot id=8728122165
+2026-04-09 19:45:47,923 | ERROR | Cause exception while process update id=523173520 by bot id=8728122165
+TelegramBadRequest: Telegram server says - Bad Request: can't parse entities: Unsupported start tag "id" at byte offset 310
+Traceback (most recent call last):
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\router.py", line 163, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\router.py", line 155, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\router.py", line 183, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\FileStoreMIETBot\FileStoreMIETBot.py", line 168, in cmd_help
+    await message.answer(text, parse_mode="HTML")
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\methods\base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\bot.py", line 493, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\session\base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: can't parse entities: Unsupported start tag "id" at byte offset 310
+2026-04-09 19:45:52,321 | INFO | Update id=523173521 is not handled. Duration 110 ms by bot id=8728122165
+2026-04-09 19:45:52,321 | ERROR | Cause exception while process update id=523173521 by bot id=8728122165
+TelegramBadRequest: Telegram server says - Bad Request: can't parse entities: Unsupported start tag "id" at byte offset 310
+Traceback (most recent call last):
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\router.py", line 163, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\router.py", line 155, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\router.py", line 183, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\FileStoreMIETBot\FileStoreMIETBot.py", line 168, in cmd_help
+    await message.answer(text, parse_mode="HTML")
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\methods\base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\bot.py", line 493, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\session\base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: can't parse entities: Unsupported start tag "id" at byte offset 310
+2026-04-09 19:46:12,840 | INFO | Update id=523173522 is handled. Duration 113 ms by bot id=8728122165
+2026-04-09 19:46:17,663 | INFO | Update id=523173523 is not handled. Duration 110 ms by bot id=8728122165
+2026-04-09 19:46:17,663 | ERROR | Cause exception while process update id=523173523 by bot id=8728122165
+TelegramBadRequest: Telegram server says - Bad Request: can't parse entities: Unsupported start tag "id" at byte offset 310
+Traceback (most recent call last):
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\router.py", line 163, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\router.py", line 155, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\router.py", line 183, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\FileStoreMIETBot\FileStoreMIETBot.py", line 168, in cmd_help
+    await message.answer(text, parse_mode="HTML")
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\methods\base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\bot.py", line 493, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    response = self.check_response(
+        bot=bot,
+    ...<2 lines>...
+        content=raw_result,
+    )
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\session\base.py", line 121, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: can't parse entities: Unsupported start tag "id" at byte offset 310
+2026-04-09 19:46:41,384 | INFO | 🤖 Бот запущен (добавлены /myfiles и /del)
+2026-04-09 19:46:41,384 | INFO | Start polling
+2026-04-09 19:46:41,802 | INFO | Run polling for bot @FileStoreMIETBot id=8728122165 - 'FileStoreBot'
+2026-04-09 19:46:56,871 | INFO | Update id=523173526 is handled. Duration 388 ms by bot id=8728122165
+2026-04-09 19:46:59,346 | INFO | Update id=523173527 is handled. Duration 188 ms by bot id=8728122165
+2026-04-09 19:47:05,107 | INFO | Update id=523173528 is handled. Duration 122 ms by bot id=8728122165
+2026-04-09 19:47:11,502 | INFO | Update id=523173524 is not handled. Duration 21043 ms by bot id=8728122165
+2026-04-09 19:47:11,502 | ERROR | Cause exception while process update id=523173524 by bot id=8728122165
+TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+Traceback (most recent call last):
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\connector.py", line 1310, in _wrap_create_connection
+    sock = await aiohappyeyeballs.start_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohappyeyeballs\impl.py", line 122, in start_connection
+    raise first_exception
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohappyeyeballs\impl.py", line 73, in start_connection
+    sock = await _connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohappyeyeballs\impl.py", line 208, in _connect_sock
+    await loop.sock_connect(sock, address)
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\proactor_events.py", line 728, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\windows_events.py", line 804, in _poll
+    value = callback(transferred, key, ov)
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\windows_events.py", line 600, in finish_connect
+    ov.getresult()
+    ~~~~~~~~~~~~^^
+OSError: [WinError 121] Превышен таймаут семафора
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\session\aiohttp.py", line 167, in make_request
+    async with session.post(
+               ~~~~~~~~~~~~^
+        url,
+        ^^^^
+        data=form,
+        ^^^^^^^^^^
+        timeout=self.timeout if timeout is None else timeout,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ) as resp:
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\client.py", line 1521, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\client.py", line 788, in _request
+    resp = await handler(req)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\client.py", line 742, in _connect_and_send_request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\connector.py", line 672, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\connector.py", line 1251, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\connector.py", line 1623, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\connector.py", line 1592, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\connector.py", line 1333, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\router.py", line 163, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\router.py", line 155, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\router.py", line 183, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\FileStoreMIETBot\FileStoreMIETBot.py", line 144, in cmd_start
+    await message.answer(
+    ...<4 lines>...
+    )
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\methods\base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\bot.py", line 493, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\session\aiohttp.py", line 176, in make_request
+    raise TelegramNetworkError(method=method, message=f"{type(e).__name__}: {e}") from e
+aiogram.exceptions.TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-04-09 19:47:14,073 | INFO | Update id=523173525 is not handled. Duration 21037 ms by bot id=8728122165
+2026-04-09 19:47:14,073 | ERROR | Cause exception while process update id=523173525 by bot id=8728122165
+TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+Traceback (most recent call last):
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\connector.py", line 1310, in _wrap_create_connection
+    sock = await aiohappyeyeballs.start_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohappyeyeballs\impl.py", line 122, in start_connection
+    raise first_exception
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohappyeyeballs\impl.py", line 73, in start_connection
+    sock = await _connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohappyeyeballs\impl.py", line 208, in _connect_sock
+    await loop.sock_connect(sock, address)
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\proactor_events.py", line 728, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\windows_events.py", line 804, in _poll
+    value = callback(transferred, key, ov)
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\windows_events.py", line 600, in finish_connect
+    ov.getresult()
+    ~~~~~~~~~~~~^^
+OSError: [WinError 121] Превышен таймаут семафора
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\session\aiohttp.py", line 167, in make_request
+    async with session.post(
+               ~~~~~~~~~~~~^
+        url,
+        ^^^^
+        data=form,
+        ^^^^^^^^^^
+        timeout=self.timeout if timeout is None else timeout,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ) as resp:
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\client.py", line 1521, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\client.py", line 788, in _request
+    resp = await handler(req)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\client.py", line 742, in _connect_and_send_request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\connector.py", line 672, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\connector.py", line 1251, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\connector.py", line 1623, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\connector.py", line 1592, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiohttp\connector.py", line 1333, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\router.py", line 163, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\router.py", line 155, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\router.py", line 183, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\FileStoreMIETBot\FileStoreMIETBot.py", line 144, in cmd_start
+    await message.answer(
+    ...<4 lines>...
+    )
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\methods\base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\bot.py", line 493, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\subza\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\aiogram\client\session\aiohttp.py", line 176, in make_request
+    raise TelegramNetworkError(method=method, message=f"{type(e).__name__}: {e}") from e
+aiogram.exceptions.TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-04-09 19:47:33,999 | ERROR | Ошибка при удалении файла: HTTP Client says - ClientOSError: [WinError 64] Указанное сетевое имя более недоступно
+2026-04-09 19:47:34,429 | INFO | Update id=523173529 is handled. Duration 19598 ms by bot id=8728122165
+2026-04-09 19:47:36,427 | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 121] Превышен таймаут семафора
+2026-04-09 19:47:36,427 | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8728122165)
+2026-04-09 19:47:37,550 | INFO | Connection established (tryings = 1, bot id = 8728122165)
+2026-04-09 19:47:37,912 | INFO | Update id=523173530 is handled. Duration 362 ms by bot id=8728122165
+2026-04-09 19:47:37,971 | INFO | Update id=523173531 is handled. Duration 420 ms by bot id=8728122165
+2026-04-09 19:47:46,338 | INFO | Update id=523173532 is handled. Duration 122 ms by bot id=8728122165
+2026-04-09 19:47:51,638 | INFO | Update id=523173533 is handled. Duration 129 ms by bot id=8728122165
+2026-04-09 19:48:04,291 | INFO | Update id=523173534 is handled. Duration 136 ms by bot id=8728122165
+2026-04-09 19:49:15,666 | INFO | Файл 3 удалён пользователем 1059003535
+2026-04-09 19:49:15,666 | INFO | Update id=523173535 is handled. Duration 109 ms by bot id=8728122165
+2026-04-09 19:49:21,393 | INFO | Update id=523173536 is handled. Duration 127 ms by bot id=8728122165
+2026-04-09 20:07:53,737 | INFO | Update id=523173537 is handled. Duration 111 ms by bot id=8728122165
+2026-04-09 20:08:23,514 | INFO | Update id=523173538 is not handled. Duration 0 ms by bot id=8728122165
+2026-04-09 20:08:37,099 | INFO | Update id=523173539 is not handled. Duration 0 ms by bot id=8728122165
+2026-04-09 20:08:45,509 | INFO | Update id=523173540 is handled. Duration 110 ms by bot id=8728122165
+2026-04-09 20:08:56,185 | INFO | Update id=523173541 is handled. Duration 384 ms by bot id=8728122165
+2026-04-09 20:09:17,562 | INFO | Update id=523173542 is handled. Duration 130 ms by bot id=8728122165
+2026-04-09 20:09:50,491 | INFO | Update id=523173543 is handled. Duration 136 ms by bot id=8728122165
+2026-04-09 20:09:58,499 | INFO | Update id=523173544 is handled. Duration 103 ms by bot id=8728122165
+2026-04-09 20:10:03,091 | INFO | Update id=523173545 is handled. Duration 135 ms by bot id=8728122165
+2026-04-09 20:10:03,920 | INFO | Update id=523173546 is handled. Duration 259 ms by bot id=8728122165
+2026-04-09 20:10:22,686 | INFO | Update id=523173547 is handled. Duration 725 ms by bot id=8728122165
+2026-04-09 20:10:32,187 | INFO | Update id=523173548 is handled. Duration 137 ms by bot id=8728122165
+2026-04-09 20:10:53,907 | INFO | Update id=523173549 is handled. Duration 137 ms by bot id=8728122165
+2026-04-09 20:11:02,834 | INFO | Update id=523173550 is handled. Duration 113 ms by bot id=8728122165
+2026-04-09 20:13:48,953 | INFO | Update id=523173551 is handled. Duration 1276 ms by bot id=8728122165
+2026-04-09 20:14:01,300 | INFO | Update id=523173552 is handled. Duration 716 ms by bot id=8728122165
+2026-04-09 20:14:13,020 | INFO | Update id=523173553 is handled. Duration 600 ms by bot id=8728122165
+2026-04-09 20:14:35,744 | INFO | Update id=523173554 is handled. Duration 505 ms by bot id=8728122165
+2026-04-09 20:14:45,084 | INFO | Update id=523173555 is handled. Duration 489 ms by bot id=8728122165
+2026-04-09 20:15:08,219 | INFO | Update id=523173556 is handled. Duration 1322 ms by bot id=8728122165
+2026-04-09 20:15:08,325 | INFO | Update id=523173557 is handled. Duration 1323 ms by bot id=8728122165
+2026-04-09 20:15:15,372 | INFO | Update id=523173558 is handled. Duration 635 ms by bot id=8728122165
+2026-04-09 20:15:16,013 | INFO | Update id=523173559 is handled. Duration 618 ms by bot id=8728122165
+2026-04-09 20:15:19,137 | INFO | Update id=523173560 is handled. Duration 664 ms by bot id=8728122165
+2026-04-09 20:15:41,542 | INFO | Update id=523173561 is handled. Duration 836 ms by bot id=8728122165
+2026-04-09 20:16:47,710 | INFO | Update id=523173562 is handled. Duration 210 ms by bot id=8728122165
+2026-04-09 20:16:53,339 | INFO | Update id=523173563 is handled. Duration 713 ms by bot id=8728122165
+2026-04-09 20:18:48,113 | INFO | Update id=523173564 is handled. Duration 141 ms by bot id=8728122165
+2026-04-09 20:29:29,170 | INFO | Update id=523173565 is handled. Duration 370 ms by bot id=8728122165
+2026-04-09 20:29:53,105 | INFO | Update id=523173566 is handled. Duration 982 ms by bot id=8728122165
+2026-04-09 20:34:48,788 | INFO | Update id=523173567 is handled. Duration 128 ms by bot id=8728122165
+2026-04-09 21:21:57,519 | INFO | Файл 333 удалён пользователем 123456789
+2026-04-09 21:24:09,731 | INFO | Файл 333 удалён пользователем 123456789
+2026-04-09 23:00:50,098 | INFO | 🤖 Бот запущен
+2026-04-09 23:00:50,098 | INFO | Start polling
+2026-04-09 23:00:52,989 | INFO | Run polling for bot @FileStoreMIETBot id=8728122165 - 'FileStoreBot'
+2026-04-09 23:00:54,885 | INFO | Update id=523173568 is handled. Duration 361 ms by bot id=8728122165
